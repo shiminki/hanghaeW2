@@ -1,6 +1,6 @@
 import java.lang.Math;
 
-public class test {
+public class Q3 {
     public static void main(String[] args) {
         // initial state
         int sum = 0;
